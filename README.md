@@ -1,1 +1,1 @@
-# theme_for_site_sample
+# ШАБЛОН ДЛЯ ТЕМ САЙТА
